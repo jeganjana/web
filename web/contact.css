@@ -1,0 +1,30 @@
+/***contact***/
+#contact
+{
+    background-color: #2A3448;
+    color: #fff;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+#contact input{
+
+    margin: 10px 0px;
+}
+
+#contact textarea{
+    margin: 10px 0px;
+}
+#img{
+    overflow: hidden;
+}
+.row{
+    padding-top: 20px;
+}
+.form-control{
+    padding-bottom: 10rem;
+}
